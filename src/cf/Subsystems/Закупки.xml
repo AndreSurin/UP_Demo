@@ -28,6 +28,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ТоварныеЗапасы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.УстановитьСканерШтрихкодов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.НастроитьСканерШтрихКодов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Договор</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

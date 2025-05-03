@@ -33,6 +33,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">DocumentJournal.ДокументыПродаж</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ВзаимосвязьПродажТоваров</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ПрайсЛист</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Договор</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
